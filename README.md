@@ -26,11 +26,6 @@ Welcome to my GitHub profile! I'm a passionate JFSD,PFSD,MERN with a knack for b
 
 ---
 
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
-
----
 
 ## 🚀 Featured Projects
 ### [JFSD]_(https://github.com/2100031438/21TS3108AJFSDCLUSTER55089)
@@ -40,7 +35,7 @@ Welcome to my GitHub profile! I'm a passionate JFSD,PFSD,MERN with a knack for b
 about Travel,Torisum and hospitality heilful for the people who are ready to enjoy there vacations 
 
 ### [MERN]_(https://github.com/2100031438/MERNSTACKWEBDEVELOPMENT)
- Automobile System Project is career cluster is focused on management, marketing, and operations
+ Automobile System Project is career cluster is focused on management, marketing, and operations 
 ---
 
 ## 🌱 Currently Learning
