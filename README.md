@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a passionate JFSD,PFSD,MERN with a knack for b
 ---
 
 ## 🛠 Technologies & Tools
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
@@ -37,7 +37,7 @@ Welcome to my GitHub profile! I'm a passionate JFSD,PFSD,MERN with a knack for b
  Student Management Project is helpful for students as well as the school authorities.
 
 ### [PFSD]_(https://github.com/2100031438/TTH-pfsdproject-)
-about Travel,Torisum and hospitality heilful for the people who are ready to enjoy there vacations
+about Travel,Torisum and hospitality heilful for the people who are ready to enjoy there vacations 
 
 ### [MERN]_(https://github.com/2100031438/MERNSTACKWEBDEVELOPMENT)
  Automobile System Project is career cluster is focused on management, marketing, and operations
@@ -50,9 +50,9 @@ about Travel,Torisum and hospitality heilful for the people who are ready to enj
 ---
 
 ## 📫 How to Reach Me
-- Email: [your-email@example.com](mailto:2100031438cseh@gmail.com)
-- LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/juluru-dhanush/)
-- Portfolio: [your-portfolio.com](https://github.com/2100031438?tab=repositories)
+- Email: [myemail](mailto:2100031438cseh@gmail.com)
+- LinkedIn: [linkedin](https://www.linkedin.com/in/juluru-dhanush/)
+- Portfolio: [Referances](https://github.com/2100031438?tab=repositories)
 
 
 ⭐️ Feel free to explore my repositories and drop a star if you find something helpful!
